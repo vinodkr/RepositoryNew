@@ -8,7 +8,7 @@ public class TestClass1 {
 	String sJave7;
 	String sJave8;
 	
-
+	String sJave10;
 }
 
 
