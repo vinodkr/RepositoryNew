@@ -7,6 +7,7 @@ public class TestClass1 {
 	String sJave5;
 	String sJave7;
 	String sJave8;
+	String sJave9;
 	
 	String sJave10;
 }
