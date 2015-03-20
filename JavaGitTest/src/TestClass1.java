@@ -5,7 +5,10 @@ public class TestClass1 {
 	String sJave3;
 	String sJave4;
 	String sJave5;
+	String sJave7;
 	String sJave8;
+	
+
 }
 
 
